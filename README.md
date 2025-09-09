@@ -3,7 +3,8 @@
 ## Project Overview
 QuizApp is a comprehensive monorepo project designed to manage quizzes and questions. It offers full CRUD functionalities for both quizzes and questions, integrated with a MySQL database, Swagger API documentation, and robust exception handling.
 
-## Monorepo: A Monorepo (short for Monolithic Repository) is a software development strategy where the code for multiple projects, applications, or services is stored in a single repository, rather than having separate repositories for each project.
+## Monorepo 
+A Monorepo (short for Monolithic Repository) is a software development strategy where the code for multiple projects, applications, or services is stored in a single repository, rather than having separate repositories for each project.
 ---
 
 ## 📚 Project Structure
